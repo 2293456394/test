@@ -9,7 +9,6 @@ public class TestJava {
     	 
     	 System.out.println(i);
 	     
-	 System.out.println("这是服务器更新的，本地没有的");
 	}
         
      
