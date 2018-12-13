@@ -8,6 +8,8 @@ public class TestJava {
     	 Thread.sleep(2000L);
     	 
     	 System.out.println(i);
+	     
+	 System.out.println("这是服务器更新的，本地没有的");
 	}
         
      
