@@ -1,1 +1,3 @@
-这是bb.java
+public class bb{
+	
+}
